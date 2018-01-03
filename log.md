@@ -21,4 +21,15 @@ I remember really struggling with it when I first started.
 
 [Hacker Rank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
          
+### Day 2: January 3rd, 2018
+
+**Today's Progress**: Managed two days of the 30 day HackerRank challenge, spent a lot of time reading through docs.
+
+**Thoughts:** I understand that you shouldn't really be using tutorial time as your hour of code, but due to how early on I am in learning certain aspects of coding I will be using it for the first couple weeks (hopefully less) but will move onto example projects/builds as soon as I'm confident enough.
+
+**Links** [Day 2 Tweet](https://twitter.com/ConnarCode/status/948703561176797186)
+
+[Hacker Rank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+         
+
 
