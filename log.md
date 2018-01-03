@@ -6,8 +6,10 @@
 
 **Thoughts:** As it was late in the evening I tweeted about my intent to start the course and will officially begin tomorrow.
 
-**Links** 1.[Challenge Begins Tweet](https://twitter.com/ConnarCode/status/947871649457729537)
-          2.[100daysofcode Article](https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d)
+**Links** 
+1.[Challenge Begins Tweet](https://twitter.com/ConnarCode/status/947871649457729537)
+
+2.[100daysofcode Article](https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d)
           
 ### Day 1: January 2nd, 2018
 
@@ -18,6 +20,7 @@ I remember really struggling with it when I first started.
 
 **Links** 
 1.[Day 1 Tweet](https://twitter.com/ConnarCode/status/948343115437543425)
-         2. [Hacker Rank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+2. [Hacker Rank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
          
 
