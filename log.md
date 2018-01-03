@@ -7,7 +7,6 @@
 **Thoughts:** As it was late in the evening I tweeted about my intent to start the course and will officially begin tomorrow.
 
 **Links** [Challenge Begins Tweet](https://twitter.com/ConnarCode/status/947871649457729537)
-
           [100daysofcode Article](https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d)
           
 ### Day 1: January 2nd, 2018
