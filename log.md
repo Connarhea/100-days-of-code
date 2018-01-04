@@ -30,6 +30,18 @@ I remember really struggling with it when I first started.
 **Links** [Day 2 Tweet](https://twitter.com/ConnarCode/status/948703561176797186)
 
 [Hacker Rank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+### Day 3: January 4th, 2018
+
+**Today's Progress**: Read up on arrays and managed to smash a problem that had been causing me grief for weeks on another challenge in a matter of minutes on HackerRank Day 7.
+
+**Thoughts:** I've been sick since before Christmas and it's all really catching up on me at the minute, so I did the bare minimum here and read through some MSDN docs, searched for explanations on my problem and then completed the HackerRank challenge. It did take me more than an hour of research and some fiddling about in Visual Studio to retain the knowledge I was getting, but the physical act of completing the task took at most 5 minutes. Hopefully after work tomorrow a trip to the doctors will help me out and I'll be able to put 100% in. 
+#### I will not be missing a day, even if I have to scrape through like today
+###### Unless I'm truly bed ridden or lose the use of my arms temporarily...
+
+**Links** [Day 3 Tweet](https://twitter.com/ConnarCode/status/949062270855892998)
+
+[Hacker Rank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
          
 
 
