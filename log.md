@@ -42,6 +42,13 @@ I remember really struggling with it when I first started.
 **Links** [Day 3 Tweet](https://twitter.com/ConnarCode/status/949062270855892998)
 
 [Hacker Rank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-         
 
+### Day 4: January 5th, 2018
 
+**Today's Progress**:Read up on, dictionaries, maps and key value pairs and got to work on Day 8 of the HackerRank 30 days of code challenges.
+
+**Thoughts:** Spent today wanting to cry at work, then going to the doctors, but I have antibiotics and the weekend ahead of me to start getting better and to make up the extra time that I would have liked to spent coding during the last few days. key value pairs and dictionaries are the first topic in quite a while that has really challenged me. As hard as t is, I have thoroughly enjoyed the challenge and can't wait to get further into it.
+
+**Links** [Day 4 Tweet](https://twitter.com/ConnarCode/status/949429083250847744)
+
+[Hacker Rank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
