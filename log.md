@@ -52,3 +52,14 @@ I remember really struggling with it when I first started.
 **Links** [Day 4 Tweet](https://twitter.com/ConnarCode/status/949429083250847744)
 
 [Hacker Rank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+### Day 5: January 6th, 2018
+
+**Today's Progress**: Still extremely ill, can't really do too much right now so I've started the CNC2018 premission and have been reading trhough Paul Ford's "What Is Code?"
+
+**Thoughts:** Desperate to really get into something more exciting but this article is fantastic. The Code Newbie challenges should be fun when they are properly under way too and should lend themselves to this challenge very well
+
+**Links** [Day 5 Tweet](https://twitter.com/ConnarCode/status/949790314893578241)
+
+[What Is Code? by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
