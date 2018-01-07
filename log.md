@@ -63,3 +63,13 @@ I remember really struggling with it when I first started.
 
 [What Is Code? by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
+### Day 6: January 7th, 2018
+
+**Today's Progress**: Sadly more of the same, finished the 38k+ words in the "What Is Code?" article. 
+
+**Thoughts:** Will be back at work tomorrow so might only get lunch break time as free time, so will be making the most of that. I'll probably go back to working on my Project Lobster game from this week on.
+
+**Links** [Day 6 Tweet](https://twitter.com/ConnarCode/status/950124916862586881)
+
+[What Is Code? by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
